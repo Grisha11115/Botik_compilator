@@ -24,7 +24,7 @@ from telegram.ext import (
 )
 
 # Настройки
-TOKEN = "<ВАШ_ТОКЕН_ЗДЕСЬ>"
+TOKEN = "8029314491:AAFiFXIBkWPUaf8Up1zFkDpsRTNc5v9UiCg"
 logging.basicConfig(
     filename="user_stats.log",
     format="%(asctime)s - %(levelname)s - %(message)s",
